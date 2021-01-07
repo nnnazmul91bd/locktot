@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+@media (max-width: 991px){
+	.navbar-brand{
+		width: 0;
+	}
+}
+
+
+
+
+
+
+
+
+@media (max-width: 767px){
+	.footer_middle{
+		display: none;
+	}
+	.navbar-brand {
+    width: 25%;
+}
+.social_nav {
+    width: 30%;
+}
+.social_nav li {
+    list-style: none;
+    padding: 0;
+}
+.payment_icon {
+    max-width: 477px;
+    margin: 0 auto;
+}
+.payment_icon{
+	padding: 0 30px!important;
+}
+
+}
